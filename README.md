@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ibad-salman
-- 👀 I’m interested in Coding.
+- 👀 I’m interested AI automation 
 - 🌱 I’m currently learning Generative AI and Chatbot
 
 
